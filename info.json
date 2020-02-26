@@ -1,0 +1,24 @@
+{
+    "name": "Zack",
+    "website": "https://zfriendly.github.io/",
+    "linkedin": "https://www.linkedin.com/in/zackfriendly/",
+    "github": "zfriendly",
+    "email": "zfriendly@gmail.com",
+    "resume": "https://www.linkedin.com/in/zackfriendly/",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Wordpress",
+        "CSS",
+        "HTML",
+        "Adobe Photoshop"
+    ],
+    "otherSkills": [
+        "Lexis-Nexis",
+        "Factiva",
+        "Westlaw",
+        "National and Local Public Records Databases",
+        "Encyclopedic knowledge of sports history"
+    ]
+}
